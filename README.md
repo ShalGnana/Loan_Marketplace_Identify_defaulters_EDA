@@ -1,5 +1,9 @@
 # Loan_Marketplace_Identify_defaulters_EDA
 Understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
+
+# Downloads:
+https://cdn.upgrad.com/UpGrad/temp/3ba74fb7-bd88-4854-8597-1c225a5aed99/loan.zip
+
 # Business Understanding
 You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
